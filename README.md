@@ -28,7 +28,7 @@ python -m src.main --pages 3
 -Raw data saved in: data/raw
 -Processed data saved in: data/processed
 
-##Use Cases
+## Use Cases
 
 -Product data extraction
 -Market research
